@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "서울대학교 | 자유전공학부 | 언어학과"
+subtitle: <a href="https://www.snu.ac.kr/">서울대학교</a> | <a href="https://cls.snu.ac.kr/">자유전공학부</a> | <a href="https://linguist.snu.ac.kr/">언어학과</a>
 
 profile:
   align: right
