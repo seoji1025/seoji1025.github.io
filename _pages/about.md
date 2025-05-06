@@ -6,9 +6,10 @@ subtitle: <a href="https://www.snu.ac.kr/">서울대학교</a> | <a href="https:
 
 profile:
   align: right
-  image: false
+  image: https://s3.animalia.bio/animals/photos/full/original/A2TPwIwbvmn5U2l2IABr.webp
   image_circular: false # crops the image to make it circular
-  more_info: false
+  more_info: 
+  <p> 귀여운 북극여우를 구경하세요 </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
