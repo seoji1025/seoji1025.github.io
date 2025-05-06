@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-markdown-문법-기초",
+            },{id: "post-may-schedule",
+        
+          title: "May Schedule",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/may-schedule/";
+          
+        },
+      },{id: "post-markdown-문법-기초",
         
           title: "Markdown 문법 기초",
         
