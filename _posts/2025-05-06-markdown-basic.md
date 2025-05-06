@@ -53,17 +53,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### And a nested list: 
 * level 1 item
- * level 2 item
- * level 2 item
-  * level 3 item
-  * level 3 item
+  * level 2 item
+  * level 2 item
+    * level 3 item
+    * level 3 item
 * level 1 item
- * level 2 item
- * level 2 item
- * level 2 item
+  * level 2 item
+  * level 2 item
+  * level 2 item
 * level 1 item
- * level 2 item
- * level 2 item
+  * level 2 item
+  * level 2 item
 * level 1 item
 
 ### There's a horizontal rule below this.
