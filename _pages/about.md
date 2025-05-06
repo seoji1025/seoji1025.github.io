@@ -6,12 +6,9 @@ subtitle: "서울대학교 | 자유전공학부 | 언어학과"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: false
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: false
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-"김서지는 2023년 서울대학교 자유전공학부에 입학했습니다. 언어학을 주전공으로 하고 있으며 2025년 1학기 현재 [인문데이터과학개론]을 수강하고 있습니다.
+김서지는 2023년 서울대학교 자유전공학부에 입학했습니다. 언어학을 주전공으로 하고 있으며 2025년 1학기 현재 [인문데이터과학개론]을 수강하고 있습니다.
 
-[인문데이터과학개론]에서는 최근 Github Pages와 Jekyll을 활용하여 개인 사이트를 만드는 방법을 배웠습니다."
+[인문데이터과학개론]에서는 최근 Github Pages와 Jekyll을 활용하여 개인 사이트를 만드는 방법을 배웠습니다.
