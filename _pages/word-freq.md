@@ -12,7 +12,7 @@ nav_order: 4
 <button onclick="updateChart()">제출</button>
 
 ## 단어 빈도 시각화
-<div style="width: 400px; height: 400px;">
+<div>
     <canvas id="myChart"></canvas>
 </div>
 <script src="/assets/js/word-freq.js"></script>
